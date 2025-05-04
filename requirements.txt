@@ -1,5 +1,6 @@
 streamlit
 pandas
 numpy
-
 python-dotenv
+google-generativeai
+requests
