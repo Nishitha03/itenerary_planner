@@ -2,7 +2,9 @@
 
 An AI-powered travel itinerary generator that creates personalized day-by-day travel plans based on natural language input. This application uses Google's Gemini AI and OpenWeatherMap to create comprehensive travel itineraries with weather information, attraction recommendations, and budget estimates.
 
-![Travel Planner Banner](https://via.placeholder.com/1200x300/4a90e2/ffffff?text=AI+Travel+Itinerary+Planner)
+![itinerary](https://github.com/user-attachments/assets/517c2094-df1c-4c8e-bff1-9bdc71513ddc)
+
+![iti1](https://github.com/user-attachments/assets/50024f22-4836-4c58-814d-560be2f224dc)
 
 ## ✨ Features
 
@@ -126,4 +128,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Created with ❤️ by [Your Name]
+
